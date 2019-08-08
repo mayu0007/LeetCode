@@ -11,3 +11,6 @@ https://leetcode.com/problems/kth-largest-element-in-an-array/
 
 ## Task 3: 23. Merge k Sorted Lists
 https://leetcode.com/problems/merge-k-sorted-lists/
+
+## Task 4: 122. Best Time to Buy and Sell Stock II
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
