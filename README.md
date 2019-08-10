@@ -14,3 +14,8 @@ https://leetcode.com/problems/merge-k-sorted-lists/
 
 ## Task 4: 122. Best Time to Buy and Sell Stock II
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+
+## Task 5: 148. Sort List
+https://leetcode.com/problems/sort-list/
+
+
