@@ -18,4 +18,8 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 ## Task 5: 148. Sort List
 https://leetcode.com/problems/sort-list/
 
+## Task 6: 78. Subsets
+https://leetcode.com/problems/subsets/
 
+## Task 7: 136. Single Number
+https://leetcode.com/problems/single-number/
