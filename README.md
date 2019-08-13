@@ -23,3 +23,9 @@ https://leetcode.com/problems/subsets/
 
 ## Task 7: 136. Single Number
 https://leetcode.com/problems/single-number/
+
+## Task 8: 169. Majority Element
+https://leetcode.com/problems/majority-element/
+
+## Task 9: 231. Power of Two
+https://leetcode.com/problems/power-of-two/
