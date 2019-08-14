@@ -29,3 +29,6 @@ https://leetcode.com/problems/majority-element/
 
 ## Task 9: 231. Power of Two
 https://leetcode.com/problems/power-of-two/
+
+## Task 10: 104. Maximum Depth of Binary Tree
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
