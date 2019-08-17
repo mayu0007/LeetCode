@@ -32,3 +32,10 @@ https://leetcode.com/problems/power-of-two/
 
 ## Task 10: 104. Maximum Depth of Binary Tree
 https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+## Task 11: 124. Binary Tree Maximum Path Sum
+https://leetcode.com/problems/binary-tree-maximum-path-sum/
+
+## Task 12: 230. Kth Smallest Element in a BST
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
